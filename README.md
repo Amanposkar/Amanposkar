@@ -42,11 +42,5 @@ Tech enthusiast and Computer Engineer with a PG Diploma from CDAC ACTS. Proficie
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Amanposkar&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Amanposkar&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
